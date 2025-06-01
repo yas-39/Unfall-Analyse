@@ -7,6 +7,7 @@ Accident happened in Year 2021 and 2022
 ## Primary keypoint:
 1. Total casualities happened after the accident.
 2. Total Casualities and Percentage with respect to accident severity and maximum casualities by type of vehicle.
+- <a href="https://github.com/yas-39/Unfall-Analyse/blob/main/Screenshot_Primarykeypoint.png">View Screenshot</a>
 ## Secondary Keypoint:
 1. Toatal Casualities with respect to Vehicle type.
 2. Monthly Casualities by Road type.
