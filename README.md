@@ -16,3 +16,4 @@ Accident happened in Year 2021 and 2022
 3. Monthly Trends Showing comparison of Casualities for current and Previous Year.
 4. Distribution of Total Casualities by Roadsurface.
 5. Realtion between Casualities by Area / Location by Day and Night.
+![Screenshot_MonthlyTrend](https://github.com/user-attachments/assets/f1fa55d9-7059-4898-946f-82c241eefcd5)
