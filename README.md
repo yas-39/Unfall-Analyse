@@ -1,5 +1,7 @@
 # Road Accident Analytics Dashboard
-This Project is about craeting an interactive Dashboard for Road Accident happenned on different Years based on the Road conditions, weather and some other factors using MS Excel.
+In this project I have created a Road Accident Analytics Dashboard, designed to analyse and visualize road accident data for the years 2021 and 2022. 
+This Excel-based dashboard empowers stakeholders with valuable insights to make data-driven decisions and pave the way towards safer roads.
+
 # Data set used
 - <a href="https://github.com/yas-39/Unfall-Analyse/blob/main/Road%20Accident%20Data.xlsx">Dataset</a>
 
