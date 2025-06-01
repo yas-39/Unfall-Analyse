@@ -35,31 +35,24 @@ Accident happened in Year 2021 and 2022.
 ![screenshot excel_roadaccident](https://github.com/user-attachments/assets/9a2e28f7-f2f0-48aa-90b6-04f0a91b10e5)
 
 # Key Insights
-  Total Casualties Analysis: 
-    The dashboard reveals that a staggering 417,883 casualties occurred after accidents during the two-year period
-
-  Peak Months: 
-    Overall the number of casulaties were slightly higher in 2021 than 2022. 
-                Maximum Casualties - October and November.
-                minimum casualties - January and February.
-
-  Casualties by Vehicle Type: 
-    Car accidents accounted for the highest number of casualties, contributing to 80% of the total compared to other vehicle types.
-
-  Casualties by accident severity: 
-   Slight severity form the bulk of casualties 84% whereas there are only 2% Fatal severity casualties.
-
-  Road Type Analysis: 
-   Maximum Casualties by Single Carriageway road type (165.045K) and Minimum by Slip road(2.458K)
-
-  Casualties Distribution by Road Surface: 
-   Highest Distribution of total casualties on Dry road surfaces (66.3%)
-
-  Casualties Relation by Area/Location:
-  Urban areas form the majority of casualties after an accident (60.6%)
-
-  Casualties Distribution by light condtion: 
-  72.2% of casulties take place in daylight condtion
+Total Casualties Analysis: 
+The dashboard reveals that a staggering 417,883 casualties occurred after accidents during the two-year period
+Peak Months: 
+Overall the number of casulaties were slightly higher in 2021 than 2022. 
+Maximum Casualties - October and November.
+Minimum casualties - January and February.
+Casualties by Vehicle Type: 
+Car accidents accounted for the highest number of casualties, contributing to 80% of the total compared to other vehicle types.
+Casualties by accident severity: 
+Slight severity form the bulk of casualties 84% whereas there are only 2% Fatal severity casualties.
+Road Type Analysis: 
+Maximum Casualties by Single Carriageway road type (165.045K) and Minimum by Slip road(2.458K)
+Casualties Distribution by Road Surface: 
+Highest Distribution of total casualties on Dry road surfaces (66.3%)
+Casualties Relation by Area/Location:
+Urban areas form the majority of casualties after an accident (60.6%)
+Casualties Distribution by light condtion: 
+72.2% of casulties take place in daylight condtion
 
 
 
