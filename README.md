@@ -5,10 +5,11 @@ This Project is about craeting an interactive Dashboard for Road Accident happen
 # Client Requirement
 Accident happened in Year 2021 and 2022
 ## Primary keypoint:
-1.Total casualities happened after the accident.
-2.Total Casualities and Percentage with respect to accident severity and maximum casualities by type of vehicle.
+1. Total casualities happened after the accident.
+2. Total Casualities and Percentage with respect to accident severity and maximum casualities by type of vehicle.
 ## Secondary Keypoint:
-1.Toatal Casualities with respect to Vehicle type.
+1. Toatal Casualities with respect to Vehicle type.
 2. Monthly Casualities by Road type.
-3.Monthly Trends Showing comparison of Casualities for current and Previous Year.
-4.Diatribution of Total Casualities by Roadtype.
+3. Monthly Trends Showing comparison of Casualities for current and Previous Year.
+4. Distribution of Total Casualities by Roadsurface.
+5. Realtion between Casualities by Area / Location by Day and Night.
