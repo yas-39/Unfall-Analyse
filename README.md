@@ -46,13 +46,16 @@ Car accidents accounted for the highest number of casualties, contributing to 80
 Casualties by accident severity: 
 Slight severity form the bulk of casualties 84% whereas there are only 2% Fatal severity casualties.
 Road Type Analysis: 
-Maximum Casualties by Single Carriageway road type (165.045K) and Minimum by Slip road(2.458K)
+Maximum Casualties by Single Carriageway road type (165.045K) and Minimum by Slip road(2.458K).
 Casualties Distribution by Road Surface: 
-Highest Distribution of total casualties on Dry road surfaces (66.3%)
+Highest Distribution of total casualties on Dry road surfaces (66.3%).
 Casualties Relation by Area/Location:
-Urban areas form the majority of casualties after an accident (60.6%)
+Urban areas form the majority of casualties after an accident (60.6%).
 Casualties Distribution by light condtion: 
-72.2% of casulties take place in daylight condtion
+72.2% of casulties take place in daylight condtion.
+
+# Final Conclusion
+This Road Accident Analytics Dashboard opens the door to data-driven decision-making, enabling stakeholders to implement evidence-based interventions that enhance road safety. It serves as a valuable tool for policymakers, traffic authorities, and safety advocates alike.
 
 
 
