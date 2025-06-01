@@ -2,6 +2,7 @@
 This Project is about craeting an interactive Dashboard for Road Accident happenned on different Years based on the Road conditions, weather and some other factors using MS Excel.
 # Data set used
 - <a href="https://github.com/yas-39/Unfall-Analyse/blob/main/Road%20Accident%20Data.xlsx">Dataset</a>
+
 # Process
 Verify data for any missing values or anomalies and sort out the same.
 Make sure the data is consistent and clean with respect to data type, data format and values used.
@@ -9,7 +10,8 @@ Created Pivot tables according to the requirements.
 Merge all Pivot Tables in one Dashboard and apply slicers to make dynamic.
 
 # Client Requirement
-Accident happened in Year 2021 and 2022
+Accident happened in Year 2021 and 2022.
+
 ## Primary keypoint:
 1. Total casualities happened after the accident.
 2. Total Casualities and Percentage with respect to accident severity and maximum casualities by type of vehicle.
